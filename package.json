@@ -1,0 +1,26 @@
+{
+  "name": "sass-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sass-watch.js",
+  "bin": {
+    "watch-sass": "./watch-sass.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyi/sass-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyi/sass-watch/issues"
+  },
+  "homepage": "https://github.com/miyi/sass-watch#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "node-sass": "^8.0.0"
+  }
+}
